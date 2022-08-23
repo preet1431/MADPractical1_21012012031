@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e8db38d-0e31-49bc-b0b3-d46a26fedbf7" name="Changes" comment="Practical1.5.kt">
+    <list default="true" id="5e8db38d-0e31-49bc-b0b3-d46a26fedbf7" name="Changes" comment="Practical1.6.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Practical7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Practical1.1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Practical1.1.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660978378742</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Practical1.6.kt">
+      <created>1660978650442</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660978650442</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +110,7 @@
     <MESSAGE value="Practical1.3.kt" />
     <MESSAGE value="Practical1.4.kt" />
     <MESSAGE value="Practical1.5.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practical1.5.kt" />
+    <MESSAGE value="Practical1.6.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical1.6.kt" />
   </component>
 </project>
